@@ -1,4 +1,4 @@
-## Hello there, winter is coming 👋
+# Hello there, winter is coming 👋
 <br>
 
 
@@ -8,7 +8,7 @@
 <br>
 <br>
 
-## About me 💬
+# About me 💬
 
 ### My name is Arthur and I'm 19 years old, I'm a french student.
 
@@ -26,7 +26,7 @@
 <br>
 
 
-## Contact me 📫
+# Contact me 📫
 <br>
 
 <img alt="GIF" align="center" width="90%" src="https://66.media.tumblr.com/71c614afa61a5ce3a2ca60116294a5ff/tumblr_p14q3xXp8J1s95j2so2_540.gif">
