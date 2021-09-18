@@ -10,13 +10,14 @@
 
 # About me 💬
 
-### My name is Arthur and I'm 19 years old, I'm a french student.
+<b> I'm a 19-year-old web developer student from France. I am always learning but I have notions in HTML, CSS, PHP, JS abd Python. 
+</b>
 
 
-### - Learning 🛠 :
-- HTML, CSS, JS, PHP
+## - Learning 🛠 :
+- HTML, CSS, JS, PHP, Python
 
-### - Hobbies : 
+## - Hobbies : 
 -  Gaming Addict
 -  Skiing
 -  Formula 1
