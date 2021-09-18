@@ -10,8 +10,7 @@
 
 # About me 💬
 
-<b> I'm a 19-year-old web developer student from France. I am always learning but I have notions in HTML, CSS, PHP, JS abd Python. 
-</b>
+### I'm a 19-year-old web developer student from France. I am always learning but I have notions in HTML, CSS, PHP, JS abd Python. 
 
 
 ## - Learning 🛠 :
